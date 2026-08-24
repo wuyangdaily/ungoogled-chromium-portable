@@ -14,7 +14,7 @@ on:
 
 jobs:
   virustotal:
-    uses: portapps/.github/.github/workflows/app-virustotal.yml@9eaba04d36be175c7cc876ba5c57cdd9ee6d9536 # v1.1.0
+    uses: portapps/.github/.github/workflows/app-virustotal.yml@3b19d5c32283b0cd19affa9864488daaeeb5feac # v1.3.0
     permissions:
       contents: write # required to write GitHub Release body
     secrets:
