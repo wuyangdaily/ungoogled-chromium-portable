@@ -1,5 +1,15 @@
 # Changelog
 
+## 156.0.8078.48-23 (2026/10/24)
+
+* Ungoogled Chromium 156.0.8078.48
+
+## 150.0.7871.255-22 (2026/09/20)
+
+* Ungoogled Chromium 150.0.7871.255
+* Portapps 3.19.0
+* Bump github.com/josephspurrier/goversioninfo from 1.5.0 to 1.7.0
+
 ## 140.0.7339.137-21 (2025/09/14)
 
 * Ungoogled Chromium 140.0.7339.137
